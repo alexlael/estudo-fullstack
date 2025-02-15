@@ -46,7 +46,8 @@ main {
 .divider {
     height: 1px;
     background-color: var(--border);
-    margin: 20px 0;
+    margin: 64px auto 64px auto;
+  
 }
 
 h2 {
@@ -84,4 +85,8 @@ img {
 .pink {
   color: var(--accent-pink);
   font-weight: bolder;
+}
+
+ol {
+  list-style-type: decimal important;
 }
