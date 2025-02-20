@@ -28,6 +28,8 @@ header .container {
   font: var(--text-lg);
   color: var(--text-color-primary);
   margin-bottom: 8px;
+  justify-content: space-between;
+
 }
 
 #info {
@@ -36,6 +38,7 @@ header .container {
   flex-direction: column;
   gap: 16px;
   width: 280px;
+
 }
 
 #info li {
