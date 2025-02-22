@@ -43,7 +43,7 @@ h3 {
   font: inherit;
 }
 
-image {
+img {
   max-width: 100%;
 }
 
@@ -51,4 +51,9 @@ image {
   max-width: 1280px;
   padding-inline: 32px;
   margin-inline: auto;
+}
+
+
+main{
+  margin-top: 40px;
 }
