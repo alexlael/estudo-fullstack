@@ -1,0 +1,26 @@
+main{
+    background-image: url(../assets/Background_Intro.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.profile{
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    border: 3px solid var(--red);
+    padding: 2px;
+    
+}
+
+h2{
+    font-family: var(--subtitle);
+    color: whitesmoke;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 32px;
+}
